@@ -1,7 +1,7 @@
-<H3>PRIYAADARSHINI K</H3>
-<H3>212223240126</H3>
+<H3>NAME : Sadhana Shree B</H3>
+<H3>REGISTER NO: 212223230177</H3>
 <H3>EX. NO.5</H3>
-<H3>DATE:</H3>
+<H3>DATE: </H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
@@ -33,7 +33,7 @@ Step 5 : Determine the output  function as
 Step 6: Test the network for accuracy<br>
 Step 7: Plot the Input space and Hidden space of RBF NN for XOR classification.
 
-<H3>PROGRAM:</H3>
+## PROGRAM:
 
 ```
 import numpy as np
@@ -102,14 +102,12 @@ print(f"Input:{np.array([1,1])}, Predicted: {predict_matrix(np.array([1,1]),w)}"
 
 ```
 
-<H3>OUTPUT:</H3>
+## OUTPUT:
+![image](https://github.com/user-attachments/assets/d21fe067-416e-4468-8caf-ec416cb694e2)
+![image](https://github.com/user-attachments/assets/a06a6451-03c6-407c-8a59-30f81090b317)
 
-![alt text](image1.png)
 
-
-![alt text](image2.png)
-
-<H3>Result:</H3>
+## Result:
 Thus , a Radial Basis Function Neural Network is implemented to classify XOR data.
 
 
